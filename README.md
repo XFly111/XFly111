@@ -71,10 +71,6 @@
 ### [segfault-shrine](https://github.com/XFly111/segfault-shrine)
 
 <div align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=XFly111&repo=segfault-shrine&hide_border=true&bg_color=FFFDF8&title_color=C97C9A&text_color=6F4A57&icon_color=E7B85C" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/类型-个人项目-F8D6E5?style=flat-square&labelColor=FFF8FB&color=F8D6E5" />
   <img src="https://img.shields.io/badge/方向-前端表达%20%2F%20产品感-CFE3FF?style=flat-square&labelColor=F8FBFF&color=CFE3FF" />
   <img src="https://img.shields.io/badge/关键词-React%20%2F%20前端体验-F9DDEA?style=flat-square&labelColor=FFF8FB&color=F9DDEA" />
