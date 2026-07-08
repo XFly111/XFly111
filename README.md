@@ -55,7 +55,7 @@
 - 多目标并发时怎么隔离输入文件，避免互相影响
 - 长时间跑实验后，怎么整理数据和结果图
 
-### [NJU Match](https://github.com/software-engineering2/NJU-Date)
+### [NJU Match](https://njumatch.com)
 
 <div align="center">
   <a href="https://njumatch.com"><img src="https://img.shields.io/badge/官网-njumatch.com-FFE7A8?style=flat-square&labelColor=FFFDF4&color=FFE7A8" /></a>
