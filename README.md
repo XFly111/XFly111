@@ -38,10 +38,6 @@
 ### [NJU-Coverage-Fuzzer](https://github.com/XFly111/NJU-Coverage-Fuzzer)
 
 <div align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=XFly111&repo=NJU-Coverage-Fuzzer&hide_border=true&bg_color=FFF8FB&title_color=C97C9A&text_color=6F4A57&icon_color=E7B85C" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/类型-个人项目-F8D6E5?style=flat-square&labelColor=FFF8FB&color=F8D6E5" />
   <img src="https://img.shields.io/badge/方向-模糊测试工具-FFE7A8?style=flat-square&labelColor=FFFDF4&color=FFE7A8" />
   <img src="https://img.shields.io/badge/关键词-Fuzzing%20%2F%20JNA%20%2F%20Shared%20Memory-F9DDEA?style=flat-square&labelColor=FFF8FB" />
